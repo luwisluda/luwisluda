@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luwisluda
+- 👋 Hi, I’m LUWIS DAVID @luwisluda
 - 👀 I’m interested in ...Data analysis and bring out info from raw data.
 - 🌱 I’m currently learning ...python 
 - 💞️ I’m looking to collaborate on ...
