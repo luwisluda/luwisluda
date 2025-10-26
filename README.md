@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luwisluda
-- 👀 I’m interested in ...Data analysis on business and sales.
+- 👀 I’m interested in ...Data analysis and bring out info from raw data.
 - 🌱 I’m currently learning ...python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
